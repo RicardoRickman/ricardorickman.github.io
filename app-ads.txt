@@ -218,3 +218,4 @@ bid-matrix.com, f2c71a45ea149366, RESELLER
 dauup.com, 34222, RESELLER, 4daba13e2b0dfd9
 taurusx.com, 70097, RESELLER
 connekt.ai, 5585919044, RESELLER
+triplelift.com, 14823, RESELLER, 6c33edb13117fd86
