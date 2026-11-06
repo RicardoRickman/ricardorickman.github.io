@@ -255,3 +255,4 @@ triplelift.com, 8614, RESELLER, 6c33edb13117fd86
 smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
 start.io, 131192070, RESELLER
 monetrix.ai, 10761, RESELLER
+playdigo.com, 1965, RESELLER
